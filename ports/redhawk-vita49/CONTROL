@@ -1,6 +1,6 @@
 Source: redhawk-vita49
-Version: 5.0.0.3
-Port-Version: 1
+Version: 5.0.0.4
+Port-Version: 3
 Homepage: https://github.com/rkesters/VITA49/tree/5.0.0-3
 Description: Contains the source and build script for the REDHAWK rh.VITA49
 Build-Depends:
